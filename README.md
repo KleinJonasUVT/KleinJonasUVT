@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub profile! 👨‍💻
+# 👋 Welcome to my GitHub profile! 👨‍💻
 
 🎓 I'm a student at Tilburg University, and I'm passionate about working on exciting projects that combine my academic pursuits with my love for coding.
 
