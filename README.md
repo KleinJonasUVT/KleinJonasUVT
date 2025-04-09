@@ -14,6 +14,7 @@ Building course-specific chatbots that help students learn smarter. These bots u
 
 **🧠 MSc Data Science Thesis – Building a BERT Model & Exploring Gender Bias**  
 Training a BERT model from scratch to study how gender bias arises in transformer architectures. My focus is on uncovering structural biases and proposing ways to mitigate them — part research, part experiment, all curiosity.
+  _📁 Check it out here: [biasintransformers](https://github.com/KleinJonasUVT/biasintransformers)_
 
 **🏆 Msc Marketing Analytics Thesis - Improving recommendation systems**  
 My first thesis explored improving recommendation systems using contextual embeddings (e.g., from ChatGPT) vs. traditional TF-IDF. Proud to say it earned the **Best Thesis Award** and a **cum laude** degree!
