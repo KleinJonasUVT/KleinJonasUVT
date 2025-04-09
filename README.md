@@ -1,3 +1,5 @@
+<img src="https://chatbot.testing.tilburg.ai/static/img/about-us/jonas_klein.png" alt="Jonas" align="right" width="150" style="border-radius: 50%;" />
+
 ---
 
 ### 👋 Hi, I'm Jonas
