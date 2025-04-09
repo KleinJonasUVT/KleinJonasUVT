@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Jonas
 
-I'm currently working on practical applications of AI and LLMs, especially in education and NLP research. My work spans both academic research and hands-on development — and I'm always looking for ways to make AI useful, fair, and a little bit magical ✨
+I'm currently working on practical applications of AI and LLMs, especially in education and NLP research.
 
 ---
 
