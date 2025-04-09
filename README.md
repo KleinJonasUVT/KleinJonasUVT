@@ -1,4 +1,4 @@
-<img src="https://chatbot.testing.tilburg.ai/static/img/about-us/jonas_klein.png" alt="Jonas" align="right" width="150" style="border-radius: 50%;" />
+<img src="https://chatbot.testing.tilburg.ai/static/img/about-us/jonas_klein.png" alt="Jonas" align="right" width="150" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
 
 ---
 
