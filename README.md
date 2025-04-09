@@ -1,13 +1,30 @@
-## 👋 Welcome to my GitHub profile!
+---
 
-🎓 I'm a student at Tilburg University, and I'm passionate about working on exciting projects that combine my academic pursuits with my love for coding.
+### 👋 Hi, I'm Jonas
 
-💻 I have intermediate skills in Python and R, and I enjoy leveraging these languages to tackle diverse data analysis and machine learning challenges.
+I'm currently working on practical applications of AI and LLMs, especially in education and NLP research. My work spans both academic research and hands-on development — and I'm always looking for ways to make AI useful, fair, and a little bit magical ✨
 
-🌐 Additionally, I'm diving into web development, learning HTML, CSS, and the art of crafting websites.
+---
 
-🤖 I have a big curiosity and fascination for ChatGPT and AI in general. I'm always excited to learn and experiment with these tools.
+### 🚀 Projects & Interests
 
-🤝 I'm enthusiastic about collaborating with fellow developers and students, so feel free to reach out if you'd like to work together on any project or just chat! 
+**📚 Course Chatbots @ Tilburg University**  
+Building course-specific chatbots that help students learn smarter. These bots use **RAG (Retrieval-Augmented Generation)** to pull info straight from lecture slides and study materials, then generate helpful answers — always with source citations.  
+  _🔒 Code lives on GitLab (private/internal)_
 
-🚀 Take a look at my repositories to explore the projects I'm currently working on and feel free to provide feedback or suggestions!
+**🧠 MSc Data Science Thesis – Building a BERT Model & Exploring Gender Bias**  
+Training a BERT model from scratch to study how gender bias arises in transformer architectures. My focus is on uncovering structural biases and proposing ways to mitigate them — part research, part experiment, all curiosity.
+
+**🏆 Msc Marketing Analytics Thesis - Improving recommendation systems**  
+My first thesis explored improving recommendation systems using contextual embeddings (e.g., from ChatGPT) vs. traditional TF-IDF. Proud to say it earned the **Best Thesis Award** and a **cum laude** degree!
+
+---
+
+### 🔬 Currently Learning
+- Fine-tuning & pretraining transformer models
+- Evaluation techniques for bias & fairness in NLP
+- Scalable RAG pipelines for internal knowledge systems
+
+---
+
+Feel free to reach out!
