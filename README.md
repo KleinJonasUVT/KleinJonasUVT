@@ -1,7 +1,5 @@
 <img src="https://github.com/KleinJonasUVT/KleinJonasUVT/blob/3ff465966bc0a86d48940235e2b04b56cc890c1f/static/Image%206.png" alt="Jonas" align="right" width="150" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
 
----
-
 ### 👋 Hi, I'm Jonas
 
 I'm currently working on practical applications of AI and LLMs, especially in education and NLP research.
