@@ -13,7 +13,7 @@ Building course-specific chatbots that help students learn smarter. These bots u
   _🔒 Code lives on GitLab (private/internal)_
 
 **🧠 MSc Data Science Thesis – Building a BERT Model & Exploring Gender Bias**  
-Training a BERT model from scratch to study how gender bias arises in transformer architectures. My focus is on uncovering structural biases and proposing ways to mitigate them — part research, part experiment, all curiosity.
+Training a BERT model from scratch to study how gender bias arises in transformer architectures. My focus is on uncovering structural biases and proposing ways to mitigate them — part research, part experiment, all curiosity.  
   _📁 Check it out here: [biasintransformers](https://github.com/KleinJonasUVT/biasintransformers)_  
 
 **🏆 Msc Marketing Analytics Thesis - Improving recommendation systems**  
